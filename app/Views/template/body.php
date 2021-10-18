@@ -32,8 +32,8 @@
                                 </div>
                                 <nav class="hamburger-menu">
                                     <ul id="navigation">
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about.php">About</a></li>
                                         <li><a href="portfolio.html">Portfolio</a></li>
                                         <li><a href="pricing.html">Pricing</a></li>
                                         <li>
@@ -86,7 +86,7 @@
                                         <h4>
                                             <dd>01</dd><span>Travel pro</span>
                                         </h4>
-                                        <p>Bahkan sedih, takut dengan harga elemen rias, tawa para penyiksa.</p>
+                                        <p>contoh hasil dari foto kami.</p>
                                     </div>
                                 </div>
                             </div>
@@ -116,7 +116,7 @@
                                         <h4>
                                             <dd>02</dd><span>Travel pro</span>
                                         </h4>
-                                        <p>Bahkan sedih, takut dengan harga elemen rias, tawa para penyiksa.</p>
+                                        <p>contoh hasil dari foto kami.</p>
                                     </div>
                                 </div>
                             </div>
@@ -146,7 +146,7 @@
                                         <h4>
                                             <dd>03</dd><span>Travel pro</span>
                                         </h4>
-                                        <p>Bahkan sedih, takut dengan harga elemen rias, tawa para penyiksa.</p>
+                                        <p>contoh hasil dari foto kami.</p>
                                     </div>
                                 </div>
                             </div>
@@ -182,9 +182,9 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="section-tittle mb-60">
-                            <p>Rasa sakit itu sendiri adalah cinta, pelanggan utama Daftar
-                                elemen sedih ada di Amerika Serikat. film tentu saja, kartun saya
-                                untuk menghias, eros pain terkadang tidak, sehingga keuntungan dari hidup bebas itu.
+                            <p>Ini adalah beberapa contoh hasil photoshot dari yang kami lakukan
+                                sebagai hasil untuk dilihat oleh para pelanggan yang tertarik dengan
+                                hasil photoshot kami.
                             </p>
                         </div>
                     </div>
@@ -374,8 +374,7 @@
                     <div class="col-lg-10">
                         <div class="section-tittle mb-60 text-center">
                             <h2>Pilih rencana</h2>
-                            <p>Rasa sakit itu sendiri adalah cinta, pelanggan utama Untuk komponen kutub tangki di Amerika Serikat. pekerjaan rumah
-                                Tentu saja, laki-laki saya yang akan menarik geladak, terkadang tidak ada rasa sakit </p>
+                            <p>beberapa keuntungan yang dapat kalian hasilkan di bawah ini.</p>
                         </div>
                     </div>
                 </div>
@@ -392,11 +391,9 @@
                             </div>
                             <div class="card-bottom">
                                 <ul>
-                                    <li>2 TB of space</li>
-                                    <li>unlimited bandwidth</li>
-                                    <li>full backup systems</li>
-                                    <li>free domain</li>
-                                    <li>unlimited database</li>
+                                    <li>mendapatkan 1 album</li>
+                                    <li>bebas memilih 2 tempat</li>
+                                    <li>waktu photoshot 1 hari</li>
                                 </ul>
                                 <a href="#" class="border-btn get-btn">Get Started</a>
                             </div>
@@ -419,11 +416,9 @@
                             </div>
                             <div class="card-bottom">
                                 <ul>
-                                    <li>2 TB of space</li>
-                                    <li>unlimited bandwidth</li>
-                                    <li>full backup systems</li>
-                                    <li>free domain</li>
-                                    <li>unlimited database</li>
+                                    <li>mendapatkan 2 album</li>
+                                    <li>bebas memilih 4 tempat</li>
+                                    <li>waktu photoshot 3 hari</li>
                                 </ul>
                                 <a href="#" class="border-btn get-btn">Get Started</a>
                             </div>
@@ -437,15 +432,13 @@
                                 <p>Only</p>
                             </div>
                             <div class="card-mid">
-                                <h4>$50.00</h4>
+                                <h4>$200.00</h4>
                             </div>
                             <div class="card-bottom">
                                 <ul>
-                                    <li>2 TB of space</li>
-                                    <li>unlimited bandwidth</li>
-                                    <li>full backup systems</li>
-                                    <li>free domain</li>
-                                    <li>unlimited database</li>
+                                    <li>mendapatkan 5 album</li>
+                                    <li>bebas memilih 7 tempat</li>
+                                    <li>waktu photoshot 10 hari</li>
                                 </ul>
                                 <a href="#" class="border-btn get-btn">Get Started</a>
                             </div>
